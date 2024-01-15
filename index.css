@@ -1,0 +1,114 @@
+
+body {
+	background-image: url('./bgimage.png');
+	background-repeat: repeat;
+	font-family: "Open Sans";
+}
+
+.imagewin{
+	width:250px;
+	height: 250px;
+	border: 10px solid white;
+	border-radius: 202px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -34px;
+}
+
+.skincare_image {
+	max-width: 340px;
+	height: 200px;
+	border: 5px solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.hr_image{
+	max-width: 340px;
+	height: 200px;
+	border: 5px solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+
+
+}
+
+.fullstack_image{
+	max-width: 340px;
+	height: 200px;
+	border: 5px solid black;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+.tools_skincare{
+	max-width: 500px;
+	height: 300px;
+	border: 5px solid black;
+
+}
+
+.brand-logo{
+	width: 50px;
+	height: 50px;
+	border-radius: 45;
+	border:3px solid black;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0;
+
+}
+
+.logo-brand {
+	width: 50px;
+	height: 50px;
+	border-radius: 45;
+	border:3px solid black;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0;
+
+}
+
+/*Logos*/
+
+.html_logo{
+	max-width: 200px;
+	height: 150px;
+
+}
+
+.css_logo {
+	max-width: 300px;
+	height: 200px;
+}
+
+.bootstrap_logo {
+	max-width: 200px;
+	height: 150px;
+
+}
+
+.fb_logo{
+	max-width: 140px;
+	height: 100px;
+
+}
+
+.shopee_logo{
+	max-width: 150px;
+	height: 100px;
+}
+
+.tiktok_logo{
+	max-width: 150px;
+	height: 100px;
+}
